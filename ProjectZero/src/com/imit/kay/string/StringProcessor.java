@@ -1,8 +1,5 @@
 package com.imit.kay.string;
 
-import javafx.util.Pair;
-
-import java.awt.*;
 import java.security.InvalidParameterException;
 
 public abstract class StringProcessor {
@@ -108,8 +105,8 @@ public abstract class StringProcessor {
         String fst = s1.substring( p_fst_s,p_fst_e);
         String lst = s1.substring( p_lst_s,p_lst_e);
 
-        s1.replace( p_fst_s,p_fst_e, lst);
         s1.replace( p_lst_s,p_lst_e, fst);
+        s1.replace(p_fst_s, p_fst_e, lst);
     }
 
 

@@ -49,12 +49,27 @@ public class Main {
         System.out.println("/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*");
         System.out.println("Tests for SpaceString method");
 
-       /* s_test= new StringBuilder("   a  b      c     ");
+        s_test = new StringBuilder();
         StringProcessor.SpaceString(s_test);
-        assert (s_test.toString().equals("   c  b      a     ")): "Test 1";*/
-        s_test= new StringBuilder("   say  smthg im   given up   on u   ");
+        assert (s_test.toString().equals("")) : "Test 1";
+
+        s_test = new StringBuilder("     ");
         StringProcessor.SpaceString(s_test);
-        assert (s_test.toString().equals("   u  smthg im   given up   on say   ")): "Test 2";
+        assert (s_test.toString().equals("     ")) : "Test 2";
+
+        s_test = new StringBuilder(" kukuruza   ");
+        StringProcessor.SpaceString(s_test);
+        assert (s_test.toString().equals(" kukuruza   ")) : "Test 3";
+
+        s_test = new StringBuilder("   a  b      c     ");
+        StringProcessor.SpaceString(s_test);
+        assert (s_test.toString().equals("   c  b      a     ")) : "Test 4";
+
+        s_test = new StringBuilder("say  smthg im   given up   on u");
+        StringProcessor.SpaceString(s_test);
+        assert (s_test.toString().equals("u  smthg im   given up   on say")) : "Test 5";
+
+        System.out.println("SpaceString method tests successful");
     }
 
 
