@@ -70,6 +70,17 @@ public class Main {
         assert (s_test.toString().equals("u  smthg im   given up   on say")) : "Test 5";
 
         System.out.println("SpaceString method tests successful");
+        //Integer.valueOf(str,16);
+
+        System.out.println("/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*");
+        System.out.println("Tests for HexString method");
+
+        assert (StringProcessor.HexString("0x0000000F").equals("15")) : "Test 1";
+        assert (StringProcessor.HexString("Васе 0x00000010 лет")
+                .equals("Васе 16 лет")) : "Test 2";
+        assert (StringProcessor.HexString("Васе 0x00000010 лет, а Пете 0xFABCED12")
+                .equals("Васе 16 лет, а Пете 4206685458")) : "Test 3";
+
     }
 
 

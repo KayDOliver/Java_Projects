@@ -1,6 +1,8 @@
 package com.imit.kay.string;
 
 import java.security.InvalidParameterException;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public abstract class StringProcessor {
     public static String Copy(String s, int n) {
@@ -66,13 +68,6 @@ public abstract class StringProcessor {
      *  пробелы могут стоять также  в начале и в конце строки.
      */
 
-    // 	isLetter() - буква
-
-    // ___say__smthg_im___given_up___on_u___
-    // s_fst == say
-    // s_lst == u
-    // s1 == ___u__smthg_im___given_up___on_say___
-
     public static void SpaceString(StringBuilder s1) {
         String[] res = s1.toString().split(" ");
         int p_fst_s =0;
@@ -109,5 +104,27 @@ public abstract class StringProcessor {
         s1.replace(p_fst_s, p_fst_e, lst);
     }
 
+    /*Строка содержит подстроки вида 0xNNNNNNNN,
+    где N — шестнадцатеричная цифра. Постройте новую строку,
+    в которой шестнадцатеричные числа будут заменены на десятичные эквиваленты
+    (например, строка «Васе 0x00000010 лет» должна превратиться
+    в строку «Васе 16 лет»).*/
 
+    public static String HexString(String s1) {
+        StringBuilder as = new StringBuilder();
+        int pos = 0;
+
+        Pattern pattern = Pattern.compile("0x[0-9,A-F,a-f]+");
+        Matcher matcher = pattern.matcher(s1);
+        while (matcher.find()) {
+            as.append(s1, pos, matcher.start());
+            as.append(Long.valueOf(matcher.group()
+                    .substring(2), 16).toString());
+            pos = matcher.end();
+        }
+        as.append(s1.substring(pos));
+
+        return as.toString();
+
+    }
 }
