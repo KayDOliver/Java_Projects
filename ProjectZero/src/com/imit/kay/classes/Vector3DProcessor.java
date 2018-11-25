@@ -2,46 +2,46 @@ package com.imit.kay.classes;
 
 public abstract class Vector3DProcessor {
     public static Vector3D Sum(Vector3D a, Vector3D b) {
-        return new Vector3D(a._x + b._x, a._y + b._y, a._z + b._z);
+        return new Vector3D(a.x + b.x, a.y + b.y, a.z + b.z);
     }
 
     public static Vector3D Sub(Vector3D a, Vector3D b) {
-        return new Vector3D(a._x - b._x, a._y - b._y, a._z - b._z);
+        return new Vector3D(a.x - b.x, a.y - b.y, a.z - b.z);
     }
 
-    public static float ScalarMul(Vector3D a, Vector3D b) {
-        return (a._x * b._x + a._y * b._y + a._z * b._z);
+    public static double ScalarMul(Vector3D a, Vector3D b) {
+        return (a.x * b.x + a.y * b.y + a.z * b.z);
     }
 
     public static Vector3D VectorMul(Vector3D a, Vector3D b) {
-        return new Vector3D(a._y * b._z - a._z * b._y,
-                a._z * b._x - a._x * b._z,
-                a._x * b._y - a._y * b._x);
+        return new Vector3D(a.y * b.z - a.z * b.y,
+                a.z * b.x - a.x * b.z,
+                a.x * b.y - a.y * b.x);
     }
 
     public static boolean IsColl(Vector3D a, Vector3D b) {
-        boolean zeroX = b._x == 0, zeroY = b._y == 0, zeroZ = b._z == 0;
+        boolean zeroX = b.x == 0, zeroY = b.y == 0, zeroZ = b.z == 0;
 
-        if (zeroX && a._x != b._x)
+        if (zeroX && a.x != b.x)
             return false;
 
-        if (zeroY && a._y != b._y)
+        if (zeroY && a.y != b.y)
             return false;
-        if (zeroZ && a._z != b._z)
+        if (zeroZ && a.z != b.z)
             return false;
 
-        return ((zeroX || zeroY || a._x / b._x == a._y / b._y)
-                && (zeroZ || zeroY || a._z / b._z == a._y / b._y)
-                && (zeroX || zeroZ || a._x / b._x == a._z / b._z));
+        return ((zeroX || zeroY || a.x / b.x == a.y / b.y)
+                && (zeroZ || zeroY || a.z / b.z == a.y / b.y)
+                && (zeroX || zeroZ || a.x / b.x == a.z / b.z));
     }
 
     // к задаче с Vector3DArray
     public static Point3D TranslatePoint(Vector3D v, Point3D p) {
-        return new Point3D(v._x + p._x, v._y + p._y, v._z + p._z);
+        return new Point3D(v.x + p._x, v.y + p._y, v.z + p._z);
     }
 
-    public static Vector3D MulConst(Vector3D v, float c) {
-        return new Vector3D(v._x * c, v._y * c, v._z * c);
+    public static Vector3D MulConst(Vector3D v, double c) {
+        return new Vector3D(v.x * c, v.y * c, v.z * c);
     }
 
 }

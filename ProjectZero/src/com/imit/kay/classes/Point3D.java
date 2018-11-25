@@ -1,33 +1,33 @@
 package com.imit.kay.classes;
 
 public class Point3D {
-    public float Get_x() {
+    public double Get_x() {
         return _x;
     }
 
-    public void set_x(float _x) {
+    public void set_x(double _x) {
         this._x = _x;
     }
 
-    public float Get_y() {
+    public double Get_y() {
         return _y;
     }
 
-    public void set_y(float _y) {
+    public void set_y(double _y) {
         this._y = _y;
     }
 
-    public float get_z() {
+    public double get_z() {
         return _z;
     }
 
-    public void set_z(float _z) {
+    public void set_z(double _z) {
         this._z = _z;
     }
 
-    protected float _x;
-    protected float _y;
-    protected float _z;
+    protected double _x;
+    protected double _y;
+    protected double _z;
 
     public Point3D() {
         _x = 0;
@@ -35,7 +35,7 @@ public class Point3D {
         _z = 0;
     }
 
-    public Point3D(float x, float y, float z) {
+    public Point3D(double x, double y, double z) {
         _x = x;
         _y = y;
         _z = z;
