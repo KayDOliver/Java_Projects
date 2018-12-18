@@ -27,8 +27,6 @@ public class Payment {
         setDate(p.date.get(Calendar.DAY_OF_MONTH),
                 p.date.get(Calendar.MONTH),
                 p.date.get(Calendar.YEAR));
-
-        System.out.println("Оно роботоит");
     }
 
     public String getName() {
@@ -45,7 +43,7 @@ public class Payment {
     }
 
     public void setDate(int year, int mounth, int day) {
-        this.date = new GregorianCalendar(year, mounth, day);
+        this.date = new GregorianCalendar(year, mounth - 1, day);
     }
 
     public int getPay() {
