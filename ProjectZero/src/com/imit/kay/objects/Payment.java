@@ -1,5 +1,6 @@
 package com.imit.kay.objects;
 
+import java.time.ZonedDateTime;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.Objects;
@@ -7,6 +8,8 @@ import java.util.Objects;
 public class Payment {
     private String name;
     private GregorianCalendar date;
+
+    private ZonedDateTime dateTime;
     private int pay;
 
     public Payment() {
@@ -22,11 +25,11 @@ public class Payment {
     }
 
     public Payment(Payment p) {
-        this.pay = p.pay;
         this.name = new String(p.name);
-        setDate(p.date.get(Calendar.DAY_OF_MONTH),
-                p.date.get(Calendar.MONTH),
-                p.date.get(Calendar.YEAR));
+        this.pay = p.pay;
+        setDate(p.date.get(Calendar.YEAR),
+                p.date.get(Calendar.MONTH) + 1,
+                p.date.get(Calendar.DAY_OF_MONTH));
     }
 
     public String getName() {
@@ -57,12 +60,13 @@ public class Payment {
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        sb.append("Payment of " + name);
-        sb.append(String.format("\n\tDate: %d, %d, %d",
+        sb.append(String.format(("Плательщик: «%s» дата: %d.%d.%d сумма: %d руб. %d коп.\n"),
+                name,
                 date.get(Calendar.DAY_OF_MONTH),
                 date.get(Calendar.MONTH) + 1,
-                date.get(Calendar.YEAR)));
-        sb.append(String.format("\n\tPrice: %d", pay));
+                date.get(Calendar.YEAR),
+                pay / 100,
+                pay % 100));
         return sb.toString();
     }
 

@@ -38,7 +38,7 @@ public class L1_6 {
 			System.out.println("Infinity solves count");	
 		else
 			GeneralSolve();
-		System.out.println("");
+            System.out.println();
 		}
 		
 	}

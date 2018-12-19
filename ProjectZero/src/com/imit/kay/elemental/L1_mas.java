@@ -1,6 +1,5 @@
 package com.imit.kay.elemental;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class L1_mas {
