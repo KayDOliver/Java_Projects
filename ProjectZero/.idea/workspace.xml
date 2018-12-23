@@ -1,38 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fe421e1-ee5d-4b9d-8bb7-0bb5d606660d" name="Default Changelist" comment="Написаны классы для задания Payment">
-      <change afterPath="$PROJECT_DIR$/src/Input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinanceReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main(with test FR).java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main(with test FR).java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0fe421e1-ee5d-4b9d-8bb7-0bb5d606660d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Описание файлов Input&amp;Output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectZero.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectZero.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/classes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/classes/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/classes/Point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/classes/Vector3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/classes/Vector3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/classes/Vector3DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/classes/Vector3DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/classes/Vector3DProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/classes/Vector3DProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_mas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/elemental/L1_mas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imit/kay/objects/FinanceReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/objects/FinanceReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imit/kay/objects/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/objects/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/objects/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/objects/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/string/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/string/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imit/kay/string/StringProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imit/kay/string/StringProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,66 +91,96 @@
     <session id="1462712526">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.44" value="2" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="38" />
-          <entry key="txt" value="6" />
+          <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="38" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3390" />
-          <entry key="txt" value="654" />
+          <entry key="java" value="4087" />
+          <entry key="txt" value="665" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3390" />
-          <entry key="PLAIN_TEXT" value="654" />
+          <entry key="JAVA" value="4087" />
+          <entry key="PLAIN_TEXT" value="665" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.36157337">
+    <splitter split-orientation="horizontal" split-proportion="0.4311649">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/Payment.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="121">
+                <state relative-caret-position="-432">
                   <caret line="32" selection-start-line="32" selection-end-line="32" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#1059#1060#0" expanded="true" />
-                    <element signature="e#1086#1087#0" expanded="true" />
-                    <element signature="e#1144#1145#0" expanded="true" />
-                    <element signature="e#1216#1217#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/FinanceReport.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-1002">
+                  <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#317#318#0" expanded="true" />
+                    <element signature="e#355#356#0" expanded="true" />
+                    <element signature="e#400#401#0" expanded="true" />
+                    <element signature="e#444#445#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/FinanceReport.java">
+            <entry file="file://$PROJECT_DIR$/Input.txt">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Input1.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="629">
-                  <caret line="50" selection-start-line="50" selection-end-line="50" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="238">
+                  <caret line="78" column="23" lean-forward="true" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Input2.txt">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Input3.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -180,24 +188,48 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Input.txt">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-238">
-                  <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+                <state relative-caret-position="222">
+                  <caret line="88" column="38" lean-forward="true" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/Main.java">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Output.txt">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Output1.txt">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Output2.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="33" column="55" lean-forward="true" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="340">
+                  <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Output3.txt">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Output4.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="70" lean-forward="true" selection-start-column="70" selection-end-column="70" />
                 </state>
               </provider>
             </entry>
@@ -224,6 +256,10 @@
       <find>-</find>
       <find>329893022013</find>
       <find>Степанишин</find>
+      <find>02 22</find>
+      <find>01</find>
+      <find>02</find>
+      <find>1976 02 22</find>
     </findStrings>
     <replaceStrings>
       <replace>.equals(</replace>
@@ -231,7 +267,6 @@
       <replace>z</replace>
       <replace>y</replace>
       <replace>double</replace>
-      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -262,9 +297,13 @@
         <option value="$PROJECT_DIR$/src/com/imit/kay/classes/Vector3DProcessor.java" />
         <option value="$PROJECT_DIR$/src/com/imit/kay/classes/Vector3D.java" />
         <option value="$PROJECT_DIR$/src/com/imit/kay/objects/Input.txt" />
-        <option value="$PROJECT_DIR$/src/com/imit/kay/objects/FinanceReport.java" />
-        <option value="$PROJECT_DIR$/Input.txt" />
         <option value="$PROJECT_DIR$/src/com/imit/kay/objects/Payment.java" />
+        <option value="$PROJECT_DIR$/Input.txt" />
+        <option value="$PROJECT_DIR$/Input2.txt" />
+        <option value="$PROJECT_DIR$/Input4.txt" />
+        <option value="$PROJECT_DIR$/Output.txt" />
+        <option value="$PROJECT_DIR$/Input3.txt" />
+        <option value="$PROJECT_DIR$/src/com/imit/kay/objects/FinanceReport.java" />
         <option value="$PROJECT_DIR$/src/com/imit/kay/objects/Main.java" />
       </list>
     </option>
@@ -289,8 +328,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -332,119 +371,6 @@
       <recent name="C:\Java Projects\Sourse\Java_Projects\ProjectZero" />
       <recent name="C:\Java Projects\Sourse\Java_Projects\ProjectZero\src" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../FinanceReport.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Main(with test FR).java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Payment.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -498,9 +424,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imit.kay.objects.Main" />
       <module name="ProjectZero" />
+      <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.imit.kay.objects.*" />
@@ -539,6 +466,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imit.kay.objects.Main" />
+      <module name="ProjectZero" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imit.kay.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.imit.kay.Main" />
       <method v="2">
@@ -556,9 +497,9 @@
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.L1_mas" />
-        <item itemvalue="Application.L1_7" />
-        <item itemvalue="Application.L1_5" />
       </list>
     </recent_temporary>
   </component>
@@ -596,12 +537,12 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2876923" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" x="232" y="638" width="882" height="491" id="Debug" order="3" type="WINDOWED" weight="0.23846154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.0046153846" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3276923" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.35538462" />
@@ -615,6 +556,35 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" x="0" y="0" width="295" height="584" id="Documentation" order="8" side_tool="true" weight="0.32980332" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17170954" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" x="232" y="638" width="882" height="491" id="Debug" order="3" type="WINDOWED" weight="0.23846154" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.0046153846" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.35538462" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" x="0" y="0" width="295" height="584" id="Documentation" order="8" side_tool="true" weight="0.32980332" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -658,12 +628,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/imit/kay/objects/FinanceReport.java</url>
-          <line>112</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/imit/kay/objects/Payment.java</url>
           <line>26</line>
@@ -747,24 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
-            <element signature="e#1177#1178#0" expanded="true" />
-            <element signature="e#1251#1252#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -779,16 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#1368#1369#0" expanded="true" />
-            <element signature="e#1430#1431#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,13 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="91" column="28" lean-forward="true" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Copy#0;class#StringProcessor#0" />
-            <element signature="method#CountOf#0;class#StringProcessor#0" />
-            <element signature="method#Change#0;class#StringProcessor#0" />
-            <element signature="method#DeleteEven#0;class#StringProcessor#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -810,20 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding>
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -886,13 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-693">
@@ -900,34 +808,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/FinanceReport.java">
+    <entry file="file://$PROJECT_DIR$/Output3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output4.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state>
+          <caret column="70" lean-forward="true" selection-start-column="70" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StartsWith.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="78" column="23" lean-forward="true" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/Payment.java">
+    <entry file="file://$PROJECT_DIR$/Input4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input3.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/FinanceReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1002">
+          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1059#1060#0" expanded="true" />
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/imit/kay/objects/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="33" column="55" lean-forward="true" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+        <state relative-caret-position="222">
+          <caret line="88" column="38" lean-forward="true" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -9,10 +9,6 @@ import java.util.Calendar;
 import java.util.Scanner;
 
 public class FinanceReport {
-    /*
-     * Создайте класс FinanceReport, содержащий массив платежей.
-     * Методы: ввод/вывод из потока,
-     * получение количества платежей, доступ к i-му платежу (на чтение и запись).  */
     private ArrayList<Payment> data;
 
     public FinanceReport() {
@@ -95,9 +91,6 @@ public class FinanceReport {
                         p.getPay() / 100,
                         p.getPay() % 100));
     }
-
-    // в формате dd.mm.yy
-    //  yy c 1970 до 2020
 
     public Integer SumInMonth(String s) {
         String str[] = s.split("\\.");
