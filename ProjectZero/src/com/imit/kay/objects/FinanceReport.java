@@ -16,7 +16,10 @@ public class FinanceReport {
     }
 
     public FinanceReport(FinanceReport f) {
-        data = new ArrayList(f.data);
+         data = new ArrayList(f.data.size());
+        for (int i = 0; i < f.data.size(); i++) {
+            data.add(new Payment(f.getValue(i)));
+        }
     }
 
     public FinanceReport(int size) {
